@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there 👋
+<br><br>
 <!--
 **ISU1014/ISU1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+ # Ryu_Isu Portfolio
 -->
-
-# Ryu_Isu Portfolio
-
-# 류이수 포트폴리오
+# WELCOME TO MY PORTFOLIO
 >캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
 
 </br>

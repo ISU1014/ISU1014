@@ -1,5 +1,6 @@
-## Hi there 👋
 <br><br>
+# Hi there 😉👋
+</br><br>
 <!--
 **ISU1014/ISU1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,24 +18,27 @@ Here are some ideas to get you started:
 
  # Ryu_Isu Portfolio
 -->
-# WELCOME TO MY PORTFOLIO
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+<!-- 
+## ISU PORTFOLIO
+
+캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 ) -->
 
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+Welcome to my hub😊
 
 </br>
 
 ## :pushpin: Contact
 - 이메일: ryuuuu333@naver.com
-- 블로그: 
+- 블로그: https://isudev.tistory.com/
 - 깃헙: https://github.com/ISU1014
 
 </br>
 
 ## :pushpin: Projects
+## workingn on💬
 ### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-BigData-19/SNS)
 >나의 프론트엔드 포트폴리오 (개인 프로젝트)  
 >개발 기간: 2023.11.25 ~ 2023.12.12 
